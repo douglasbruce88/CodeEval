@@ -1,0 +1,5 @@
+/Users/doubru/Projects/CodeEval/170GuessTheNumber/170GuessTheNumber/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/doubru/Projects/CodeEval/170GuessTheNumber/170GuessTheNumber/bin/Debug/170GuessTheNumber.exe.mdb
+/Users/doubru/Projects/CodeEval/170GuessTheNumber/170GuessTheNumber/bin/Debug/170GuessTheNumber.exe
+/Users/doubru/Projects/CodeEval/170GuessTheNumber/170GuessTheNumber/obj/x86/Debug/170GuessTheNumber.exe
+/Users/doubru/Projects/CodeEval/170GuessTheNumber/170GuessTheNumber/obj/x86/Debug/170GuessTheNumber.exe.mdb
